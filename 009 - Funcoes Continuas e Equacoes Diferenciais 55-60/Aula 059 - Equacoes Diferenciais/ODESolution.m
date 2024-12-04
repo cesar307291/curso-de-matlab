@@ -1,10 +1,5 @@
 %%
-%     Curso do canal ExataMenteS
-%     Aula 59 - Equacoes Diferenciais
-%     Se inscreva no canal e nos ajude a crescer <3
-%     https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA
-%     Professor: Joao Pinheiro
-%     Copyright https://github.com/joaomh
+%     Cesar Miranda Dias Junior
 %%
 % Syms
 syms y(t)
